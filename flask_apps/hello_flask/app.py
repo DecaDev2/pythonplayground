@@ -1,0 +1,1 @@
+# to run once we havewrote the app use flask --app app run
